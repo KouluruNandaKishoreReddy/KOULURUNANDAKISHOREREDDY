@@ -17,5 +17,8 @@
 <a target="_blank" href="https://dev.to/koulurunandakishorereddy">
   <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
+<a target="_blank" href="mailto:nandakouluruemail@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 <hr>
