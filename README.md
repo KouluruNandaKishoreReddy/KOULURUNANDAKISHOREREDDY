@@ -4,7 +4,7 @@
 <p>I am from Andhra Pradesh, Kadapa .</p>
 <p>I'm pursuing B.E-Computer Science and Engineering in <b>PANIMALAR ENGINEERING COLLEGE</b> which is affiliated to Anna university</p>
 <hr>
-<p><b>feel free to contact me </b></p>
+<p><b>Want To Contact Me? </b></p>
 
 <a target="_blank" href="https://www.linkedin.com/in/kouluru-nanda-kishore-reddy-b42972192/">
   <img align="left" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
