@@ -11,7 +11,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/kouluru-nanda-kishore-reddy-b42972192/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://www.instagram.com/_k._n_._reddy_36/">
+<a target="_blank" href="https://www.instagram.com/_k._n._reddy_36/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
