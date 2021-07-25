@@ -14,5 +14,8 @@
 <a target="_blank" href="https://www.instagram.com/_k._n._reddy_36/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a target="_blank" href="https://dev.to/koulurunandakishorereddy">
+  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
+</a>
 
 <hr>
