@@ -18,6 +18,12 @@
 <a target="_blank" href="mailto:nandakouluruemail@gmail.com">
   <img align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<a target="_blank" href="https://mobile.twitter.com/KouluruR">
+  <img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a target="_blank" href="https://hashnode.com/@Nandu36">
+  <img align="left" alt="Hashnode" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />
+</a>
 
 <br>
 <hr>
