@@ -5,20 +5,18 @@
 <p>I'm pursuing B.E-Computer Science and Engineering in <b>PANIMALAR ENGINEERING COLLEGE</b> which is affiliated to Anna university</p>
 <hr>
 <p><b>You can contact me via </b></p>
-<a href="https://www.linkedin.com/in/kouluru-nanda-kishore-reddy-b42972192/">LINKEDIN</a> <br>
-<a href="https://twitter.com/KouluruR">TWITTER</a><br>
-<a href="https://www.instagram.com/_k._n_._reddy_36/">INSTAGRAM</a><br>
+
 <a target="_blank" href="https://www.linkedin.com/in/kouluru-nanda-kishore-reddy-b42972192/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/_k._n._reddy_36/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a target="_blank" href="https://dev.to/koulurunandakishorereddy">
-  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
+  <img align="left" alt="Devto" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
 <a target="_blank" href="mailto:nandakouluruemail@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 <hr>
