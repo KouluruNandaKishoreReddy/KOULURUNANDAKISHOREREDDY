@@ -20,7 +20,7 @@
 <a target="_blank" href="https://mobile.twitter.com/KouluruR">
   <img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a target="_blank" href="https://hashnode.com/@Nandu36">
+<a target="_blank" href="https://koulurunandakishorereddy.tech/">
   <img align="left" alt="Hashnode" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />
 </a>
 <br>
