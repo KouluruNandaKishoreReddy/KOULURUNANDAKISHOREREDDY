@@ -3,23 +3,13 @@
 <h1 align="center">Hey,I'm  <em>KOULURU NANDA KISHORE REDDY</em></h1>
 <hr>
 
-<h2>Want To Contact Me? </h2>
+<h2> Connect with me </h2>
 
-<a target="_blank" href="https://www.linkedin.com/in/kouluru-nanda-kishore-reddy-b42972192/">
-  <img align="left" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="https://www.instagram.com/_k._n._reddy_36/">
-  <img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a target="_blank" href="https://dev.to/koulurunandakishorereddy">
-  <img align="left" alt="Devto" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>
-<a target="_blank" href="mailto:nandakouluruemail@gmail.com">
-  <img align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a target="_blank" href="https://mobile.twitter.com/KouluruR">
-  <img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-KOULURU%20NANDA%20KISHORE%20REDDY-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/kouluru-nanda-kishore-reddy-b42972192/)](https://www.linkedin.com/in/kouluru-nanda-kishore-reddy-b42972192/)
+[![Instagram Badge](https://img.shields.io/badge/Kishore_Reddy-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.kishore._reddy._/)](https://www.instagram.com/_.kishore._reddy._/)
+[![Gmail Badge](https://img.shields.io/badge/-nandakouluruemail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nandakouluruemail@gmail.com/)](mailto:nandakouluruemail@gmail.com)
+
+
 <br>
 <hr>
 
@@ -27,11 +17,29 @@
 
 My passion for challenges is what drives me to set goals for myself continuously, so I always have something to strive for. I'm looking for opportunities to achieve greatness and to do better than others. I'm also enthusiastic about contributing to open-source projects and participating in hackathons because they are fantastic learning opportunities. It pushes me out of my comfort zone and helps me grow.</p>
 <br>
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/KouluruNandaKishoreReddy/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/KouluruNandaKishoreReddy/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="KOULURU NANDA KISHORE REDDY streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KouluruNandaKishoreReddy&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
+
+## 📊 My Github stats
+
+<details>
+  <summary>:chart_with_upwards_trend:GitHub Profile Stats</summary>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KouluruNandaKishoreReddy&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KouluruNandaKishoreReddy&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
+  <br/>
+  <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
+</details>
+
+
 <hr>
-<h2>🧰 Toolbox</h2>
-<code><img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <br>
 <hr>
 
