@@ -20,13 +20,12 @@
 <a target="_blank" href="https://mobile.twitter.com/KouluruR">
   <img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a target="_blank" href="https://koulurunandakishorereddy.tech/">
-  <img align="left" alt="Hashnode" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />
-</a>
 <br>
 <hr>
-<p>I am from Andhra Pradesh, Kadapa .</p>
-<p>I'm pursuing B.E-Computer Science and Engineering in <b>PANIMALAR ENGINEERING COLLEGE</b> which is affiliated to Anna university</p>
+
+<p>Hi all, I completed Bachelor's degree in Computer Science Engineering from Panimalar Engineering College under Anna University, with an active interest in Python development. My personality is upbeat and ambitious, with demonstrated leadership skills, and I love to take initiative and tackle new challenges.
+
+My passion for challenges is what drives me to set goals for myself continuously, so I always have something to strive for. I'm looking for opportunities to achieve greatness and to do better than others. I'm also enthusiastic about contributing to open-source projects and participating in hackathons because they are fantastic learning opportunities. It pushes me out of my comfort zone and helps me grow.</p>
 <br>
 <hr>
 <h2>🧰 Toolbox</h2>
