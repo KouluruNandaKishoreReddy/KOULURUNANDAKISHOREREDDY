@@ -2,6 +2,7 @@
 <b>WELCOME TO  THIS PAGE 👋</b></p>
 <h1 align="center">Hai there,I am  <em>KOULURU NANDA KISHORE REDDY</em></h1>
 <hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KouluruNandaKishoreReddy&label=Profile%20views&color=0e75b6&style=flat" alt="Nanda Kishore Reddy" /> </p>
 
 <h2> Connect with me </h2>
 
