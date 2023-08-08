@@ -1,6 +1,6 @@
 <p align="center">
 <b>WELCOME TO  THIS PAGE 👋</b></p>
-<h1 align="center">Hey,I'm  <em>KOULURU NANDA KISHORE REDDY</em></h1>
+<h1 align="center">Hai there,I am  <em>KOULURU NANDA KISHORE REDDY</em></h1>
 <hr>
 
 <h2> Connect with me </h2>
