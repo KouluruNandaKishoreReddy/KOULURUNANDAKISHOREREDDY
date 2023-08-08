@@ -14,7 +14,7 @@
 <br>
 <hr>
 
-<p>Hi all, I completed Bachelor's degree in Computer Science Engineering from Panimalar Engineering College under Anna University, with an active interest in Python development. My personality is upbeat and ambitious, with demonstrated leadership skills, and I love to take initiative and tackle new challenges.
+<p>Hi all, I completed Bachelor's degree in Computer Science and Engineering from Panimalar Engineering College under Anna University, with an active interest in Python development. My personality is upbeat and ambitious, with demonstrated leadership skills, and I love to take initiative and tackle new challenges.
 
 My passion for challenges is what drives me to set goals for myself continuously, so I always have something to strive for. I'm looking for opportunities to achieve greatness and to do better than others. I'm also enthusiastic about contributing to open-source projects and participating in hackathons because they are fantastic learning opportunities. It pushes me out of my comfort zone and helps me grow.</p>
 <br>
