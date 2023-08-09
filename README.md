@@ -29,7 +29,6 @@ My passion for challenges is what drives me to set goals for myself continuously
 </p>
 
 ## 📊 My Github stats
-
 <details>
   <summary>:chart_with_upwards_trend:GitHub Profile Stats</summary>
   <br/>
