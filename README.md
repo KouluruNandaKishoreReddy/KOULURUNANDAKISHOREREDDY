@@ -10,7 +10,6 @@
 [![Instagram Badge](https://img.shields.io/badge/Kishore_Reddy-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.kishore._reddy._/)](https://www.instagram.com/_.kishore._reddy._/)
 [![Gmail Badge](https://img.shields.io/badge/-nandakouluruemail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nandakouluruemail@gmail.com/)](mailto:nandakouluruemail@gmail.com)
 
-
 <br>
 <hr>
 
@@ -29,6 +28,7 @@ My passion for challenges is what drives me to set goals for myself continuously
 </p>
 
 ## 📊 My Github stats
+
 <details>
   <summary>:chart_with_upwards_trend:GitHub Profile Stats</summary>
   <br/>
@@ -37,7 +37,6 @@ My passion for challenges is what drives me to set goals for myself continuously
   <br/>
   <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
 </details>
-
 
 <hr>
 <br>
