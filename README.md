@@ -29,14 +29,17 @@ My passion for challenges is what drives me to set goals for myself continuously
 
 ## 📊 My Github stats
 
-<details>
-  <summary>:chart_with_upwards_trend:GitHub Profile Stats</summary>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=KouluruNandaKishoreReddy&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KouluruNandaKishoreReddy&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
   <br/>
   <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
-</details>
+
+  ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=KouluruNandaKishoreReddy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
 
 <hr>
 <br>
