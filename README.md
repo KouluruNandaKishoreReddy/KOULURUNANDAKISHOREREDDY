@@ -43,7 +43,7 @@ My passion for challenges drives me to set goals for myself continuously, so I a
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="buymeacoffee.com/?via=koulurunanda" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="200" ></a>
+<a href="https://www.buymeacoffee.com/koulurunanda" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="200" ></a>
 <br>
 <hr>
 
