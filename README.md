@@ -30,7 +30,7 @@ My passion for challenges drives me to set goals for myself continuously, so I a
 ## 📊 My Github stats
 
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=KouluruNandaKishoreReddy&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KouluruNandaKishoreReddy&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
  
   
   
@@ -38,7 +38,7 @@ My passion for challenges drives me to set goals for myself continuously, so I a
 
  <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KouluruNandaKishoreReddy&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KouluruNandaKishoreReddy&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
   <br/>
   <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
 
